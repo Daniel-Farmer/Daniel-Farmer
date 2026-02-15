@@ -12,9 +12,3 @@
 
 <img src="tech.svg" width="100%" alt="Tech Stack"/>
 
-<br/>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Daniel-Farmer&show_icons=true&theme=transparent&hide_border=true&title_color=6366f1&icon_color=a78bfa&text_color=a1a1aa&bg_color=00000000" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Farmer&layout=compact&theme=transparent&hide_border=true&title_color=6366f1&text_color=a1a1aa&bg_color=00000000" height="165"/>
-</p>
