@@ -13,5 +13,5 @@
   <rect width="900" height="80" rx="8" fill="url(#abg)"/>
   <rect width="3" height="40" x="24" y="20" rx="2" fill="url(#aAccent)"/>
   <text x="40" y="36" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#e2e8f0" font-weight="500">Full-stack developer building tools at the intersection of AI, security, and web.</text>
-  <text x="40" y="58" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#a1a1aa">From OSINT intelligence systems to game server infrastructure — if it's interesting, I'll build it.</text>
+  <text x="40" y="58" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#a1a1aa">From OSINT intelligence systems to 3D game editors — if it's interesting, I'll build it.</text>
 </svg>

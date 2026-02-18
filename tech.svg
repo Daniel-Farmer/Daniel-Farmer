@@ -39,6 +39,7 @@
       <rect x="118" width="58" height="24" rx="5" fill="#10b981" fill-opacity="0.1" stroke="#10b981" stroke-opacity="0.2" stroke-width="0.75"/><text x="147" y="16" text-anchor="middle" fill="#6ee7b7">Express</text>
       <rect x="184" width="80" height="24" rx="5" fill="#06b6d4" fill-opacity="0.1" stroke="#06b6d4" stroke-opacity="0.2" stroke-width="0.75"/><text x="224" y="16" text-anchor="middle" fill="#67e8f9">Tailwind CSS</text>
       <rect x="272" width="52" height="24" rx="5" fill="#6366f1" fill-opacity="0.1" stroke="#6366f1" stroke-opacity="0.2" stroke-width="0.75"/><text x="298" y="16" text-anchor="middle" fill="#a5b4fc">Prisma</text>
+      <rect x="332" width="58" height="24" rx="5" fill="#049ef4" fill-opacity="0.1" stroke="#049ef4" stroke-opacity="0.2" stroke-width="0.75"/><text x="361" y="16" text-anchor="middle" fill="#7dd3fc">Three.js</text>
     </g>
   </g>
 

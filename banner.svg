@@ -125,17 +125,17 @@
         <rect x="146" y="0" width="42" height="24" rx="6" fill="#ef4444" fill-opacity="0.1" stroke="#ef4444" stroke-opacity="0.25" stroke-width="0.75"/>
         <text x="167" y="16" text-anchor="middle" fill="#fca5a5">Java</text>
 
-        <rect x="198" y="0" width="38" height="24" rx="6" fill="#10b981" fill-opacity="0.1" stroke="#10b981" stroke-opacity="0.25" stroke-width="0.75"/>
-        <text x="217" y="16" text-anchor="middle" fill="#6ee7b7">Rust</text>
+        <rect x="198" y="0" width="56" height="24" rx="6" fill="#049ef4" fill-opacity="0.1" stroke="#049ef4" stroke-opacity="0.25" stroke-width="0.75"/>
+        <text x="226" y="16" text-anchor="middle" fill="#7dd3fc">Three.js</text>
 
-        <rect x="246" y="0" width="64" height="24" rx="6" fill="#3b82f6" fill-opacity="0.1" stroke="#3b82f6" stroke-opacity="0.25" stroke-width="0.75"/>
-        <text x="278" y="16" text-anchor="middle" fill="#93c5fd">Next.js</text>
+        <rect x="264" y="0" width="64" height="24" rx="6" fill="#3b82f6" fill-opacity="0.1" stroke="#3b82f6" stroke-opacity="0.25" stroke-width="0.75"/>
+        <text x="296" y="16" text-anchor="middle" fill="#93c5fd">Next.js</text>
 
-        <rect x="320" y="0" width="42" height="24" rx="6" fill="#ec4899" fill-opacity="0.1" stroke="#ec4899" stroke-opacity="0.25" stroke-width="0.75"/>
-        <text x="341" y="16" text-anchor="middle" fill="#f9a8d4">AI/ML</text>
+        <rect x="338" y="0" width="42" height="24" rx="6" fill="#ec4899" fill-opacity="0.1" stroke="#ec4899" stroke-opacity="0.25" stroke-width="0.75"/>
+        <text x="359" y="16" text-anchor="middle" fill="#f9a8d4">AI/ML</text>
 
-        <rect x="372" y="0" width="58" height="24" rx="6" fill="#8b5cf6" fill-opacity="0.1" stroke="#8b5cf6" stroke-opacity="0.25" stroke-width="0.75"/>
-        <text x="401" y="16" text-anchor="middle" fill="#c4b5fd">DevOps</text>
+        <rect x="390" y="0" width="58" height="24" rx="6" fill="#8b5cf6" fill-opacity="0.1" stroke="#8b5cf6" stroke-opacity="0.25" stroke-width="0.75"/>
+        <text x="419" y="16" text-anchor="middle" fill="#c4b5fd">DevOps</text>
       </g>
     </g>
 
