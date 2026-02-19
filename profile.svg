@@ -264,7 +264,7 @@
         <animate attributeName="opacity" values="0.8;1;0.8" dur="2s" repeatCount="indefinite"/>
       </circle>
       <text x="32" y="28" font-family="system-ui, sans-serif" font-size="15" fill="#e2e8f0" font-weight="600">Recon OSINT</text>
-      <text x="16" y="50" font-family="system-ui, sans-serif" font-size="12" fill="#a1a1aa">Intelligence gathering tool — searches 1000+ platforms,</text>
+      <text x="16" y="50" font-family="system-ui, sans-serif" font-size="12" fill="#a1a1aa">Intelligence gathering tool, searches 1000+ platforms,</text>
       <text x="16" y="66" font-family="system-ui, sans-serif" font-size="12" fill="#a1a1aa">6-phase AI pipeline, interactive entity graphs.</text>
       <g transform="translate(16, 82)" font-family="ui-monospace, monospace" font-size="10">
         <rect width="54" height="20" rx="4" fill="#6366f1" fill-opacity="0.12"/><text x="27" y="14" text-anchor="middle" fill="#a5b4fc">Next.js</text>
@@ -282,7 +282,7 @@
         <animate attributeName="opacity" values="0.8;1;0.8" dur="2s" begin="0.5s" repeatCount="indefinite"/>
       </circle>
       <text x="32" y="28" font-family="system-ui, sans-serif" font-size="15" fill="#e2e8f0" font-weight="600">Pegasus Studio</text>
-      <text x="16" y="50" font-family="system-ui, sans-serif" font-size="12" fill="#a1a1aa">Browser-based 3D game editor — scene graph, 800+ models,</text>
+      <text x="16" y="50" font-family="system-ui, sans-serif" font-size="12" fill="#a1a1aa">Browser-based 3D game editor, scene graph, 800+ models,</text>
       <text x="16" y="66" font-family="system-ui, sans-serif" font-size="12" fill="#a1a1aa">terrain sculpting, PBR textures, multi-project support.</text>
       <g transform="translate(16, 82)" font-family="ui-monospace, monospace" font-size="10">
         <rect width="56" height="20" rx="4" fill="#049ef4" fill-opacity="0.12"/><text x="28" y="14" text-anchor="middle" fill="#7dd3fc">Three.js</text>
@@ -299,7 +299,7 @@
         <animate attributeName="opacity" values="0.8;1;0.8" dur="2s" begin="1s" repeatCount="indefinite"/>
       </circle>
       <text x="32" y="28" font-family="system-ui, sans-serif" font-size="15" fill="#e2e8f0" font-weight="600">PegasusFlow</text>
-      <text x="16" y="50" font-family="system-ui, sans-serif" font-size="12" fill="#a1a1aa">Visual AI workflow automation — drag-and-drop canvas,</text>
+      <text x="16" y="50" font-family="system-ui, sans-serif" font-size="12" fill="#a1a1aa">Visual AI workflow automation, drag-and-drop canvas,</text>
       <text x="16" y="66" font-family="system-ui, sans-serif" font-size="12" fill="#a1a1aa">80+ node types, real-time execution, self-hosted.</text>
       <g transform="translate(16, 82)" font-family="ui-monospace, monospace" font-size="10">
         <rect width="72" height="20" rx="4" fill="#10b981" fill-opacity="0.12"/><text x="36" y="14" text-anchor="middle" fill="#6ee7b7">TypeScript</text>
@@ -316,7 +316,7 @@
         <animate attributeName="opacity" values="0.8;1;0.8" dur="2s" begin="1.5s" repeatCount="indefinite"/>
       </circle>
       <text x="32" y="28" font-family="system-ui, sans-serif" font-size="15" fill="#e2e8f0" font-weight="600">Pegasus Labs</text>
-      <text x="16" y="50" font-family="system-ui, sans-serif" font-size="12" fill="#a1a1aa">Enterprise Minecraft server platform — distributed arch,</text>
+      <text x="16" y="50" font-family="system-ui, sans-serif" font-size="12" fill="#a1a1aa">Enterprise Minecraft server platform, distributed arch,</text>
       <text x="16" y="66" font-family="system-ui, sans-serif" font-size="12" fill="#a1a1aa">AI-powered plugin dev, multi-node scaling.</text>
       <g transform="translate(16, 82)" font-family="ui-monospace, monospace" font-size="10">
         <rect width="50" height="20" rx="4" fill="#ec4899" fill-opacity="0.12"/><text x="25" y="14" text-anchor="middle" fill="#f9a8d4">Python</text>
